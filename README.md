@@ -1,2 +1,2 @@
 # Exercicios_Logica_Apostila_Manzano_com_Javascript
-Repositório dedicado aos exercícios de lógica de programação com Javascript
+Resolução dos 51 exercícios da apostila Manzano com Javascript
